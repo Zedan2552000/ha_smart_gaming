@@ -1,0 +1,10 @@
+﻿{
+  "domain": "ha_smart_gaming",
+  "name": "Smart Gaming Immersion",
+  "version": "1.0.0",
+  "documentation": "https://github.com/Zedan2552000/ha_smart_gaming",
+  "dependencies": [],
+  "codeowners": ["@zedan"],
+  "iot_class": "local_push",
+  "config_flow": false
+}
